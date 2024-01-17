@@ -1,4 +1,4 @@
 # ITCS-5156-Project-ML
 
-US House Prices Growth
-https://www.ceicdata.com/en/indicator/united-states/house-prices-growth
+Spam email classifier
+https://www.kaggle.com/datasets/gokulraja84/emails-dataset-for-spam-detection
