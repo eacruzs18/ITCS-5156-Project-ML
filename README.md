@@ -2,6 +2,8 @@
 
 Student Performance
 
+https://www.kaggle.com/code/shivan118/student-performance-analisys/notebook
+
 https://www.kaggle.com/code/zabihullah18/student-performance
 
 DATASET
