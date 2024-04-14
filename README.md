@@ -1,6 +1,7 @@
 # ITCS-5156-Project-ML
 
 Student Performance
+https://pdfs.semanticscholar.org/e982/6b27d3ce0069abd4557c49b78891b4446702.pdf?_gl=1*1dakzna*_ga*MTcyOTA4MDMwLjE3MTMwOTM0NTI.*_ga_H7P4ZT52H5*MTcxMzA5MzQ1Mi4xLjEuMTcxMzA5NDMwNi40LjAuMA..
 
 https://www.kaggle.com/code/shivan118/student-performance-analisys/notebook
 
@@ -19,6 +20,10 @@ https://archive.ics.uci.edu/dataset/467/student+academics+performance
 https://archive.ics.uci.edu/dataset/320/student+performance
 
 Related Works
+
+https://pdfs.semanticscholar.org/f946/763f3dcea639c1bc2e813bfe4049dcae87e2.pdf?_gl=1*ipx4jw*_ga*MTcyOTA4MDMwLjE3MTMwOTM0NTI.*_ga_H7P4ZT52H5*MTcxMzA5MzQ1Mi4xLjEuMTcxMzA5Mzc0NC4zMC4wLjA.
+
+https://www.semanticscholar.org/reader/ec6c52365bee02c2dd0da13d63ffc61c172038e3
 
 https://repositorium.sdum.uminho.pt/bitstream/1822/8024/1/student.pdf
 
