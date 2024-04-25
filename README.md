@@ -11,14 +11,6 @@ DATASET
 
 https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
 
-Additional Datasets
-
-https://archive.ics.uci.edu/dataset/856/higher+education+students+performance+evaluation
-
-https://archive.ics.uci.edu/dataset/467/student+academics+performance
-
-https://archive.ics.uci.edu/dataset/320/student+performance
-
 Related Works
 
 https://pdfs.semanticscholar.org/f946/763f3dcea639c1bc2e813bfe4049dcae87e2.pdf?_gl=1*ipx4jw*_ga*MTcyOTA4MDMwLjE3MTMwOTM0NTI.*_ga_H7P4ZT52H5*MTcxMzA5MzQ1Mi4xLjEuMTcxMzA5Mzc0NC4zMC4wLjA.
